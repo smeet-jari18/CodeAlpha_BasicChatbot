@@ -201,7 +201,7 @@ If no rule matched, the bot still replies. A good chatbot **always** answers.
 ## 👩‍💻 Author
 
 **Smeet Jariwala**
-Python Programming Intern @ CodeAlpha
+Python Programming Intern @CodeAlpha
 📧 smeetjariwala17@gmail.com
 🔗 [LinkedIn](www.linkedin.com/in/smeet-jariwala-98b0043a5)
 
