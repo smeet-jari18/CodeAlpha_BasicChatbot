@@ -203,7 +203,7 @@ If no rule matched, the bot still replies. A good chatbot **always** answers.
 **Smeet Jariwala**
 Python Programming Intern @CodeAlpha
 📧 smeetjariwala17@gmail.com
-🔗 [LinkedIn](www.linkedin.com/in/smeet-jariwala-98b0043a5)
+🔗 [LinkedIn]([www.linkedin.com/in/smeet-jariwala-98b0043a5](https://www.linkedin.com/in/smeet-jariwala-98b0043a5?utm_source=share_via&utm_content=profile&utm_medium=member_android))
 
 ---
 
